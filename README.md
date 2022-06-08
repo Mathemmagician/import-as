@@ -7,7 +7,7 @@ Common import abbreviations for Python packages
 | [numpy](https://github.com/numpy/numpy)   | np |
 | [pandas](https://github.com/pandas-dev/pandas)  | pd |
 | [tensorflow](https://github.com/tensorflow/tensorflow) | tf |
-| [dask](https://github.com/dask/dask)    | dd |
+| [dask](https://github.com/dask/dask).dataframe    | dd |
 | [matplotlib](https://github.com/matplotlib/matplotlib).pyplot | plt |
 | [seaborn](https://github.com/mwaskom/seaborn) | sns |
 
